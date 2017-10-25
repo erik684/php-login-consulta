@@ -1,0 +1,75 @@
+.jumbotron{
+  background-color: rgb(253, 227, 167, 1);
+
+}
+
+body {
+	background-color: #f2f2f2;
+}
+
+.navbar {
+    margin-top: 2px;
+	margin-bottom: 2px;
+	margin-right: -30px;
+}
+
+#btn_pesquisar {
+	margin-bottom: 30px;
+}
+
+.btn-sair {
+	padding: 13px 21px;
+}
+
+.li-navbar{
+	padding-right: 35px;
+}
+
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
+    color: #fff;
+    background-color: #25936e;
+}
+
+/*Panel tabs*/
+.panel-tabs {
+    position: relative;
+    bottom: 30px;
+    clear:both;
+    border-bottom: 1px solid transparent;
+}
+
+.panel-tabs > li {
+    float: left;
+    margin-bottom: -1px;
+}
+
+.panel-tabs > li > a {
+    margin-right: 2px;
+    margin-top: 4px;
+    line-height: .85;
+    border: 1px solid transparent;
+    border-radius: 4px 4px 0 0;
+    color: #ffffff;
+}
+
+.panel-tabs > li > a:hover {
+    border-color: transparent;
+    color: #ffffff;
+    background-color: transparent;
+}
+
+.panel-tabs > li.active > a,
+.panel-tabs > li.active > a:hover,
+.panel-tabs > li.active > a:focus {
+    color: #fff;
+    cursor: default;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+    background-color: rgba(255,255,255, .23);
+    
+}
+
+.alert{
+    margin-bottom: 2px;
+}
