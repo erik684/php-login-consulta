@@ -304,7 +304,7 @@ include_once("includes/filtrar_todosvalores.php");
 			<div class="form-group">
 			  <label class="col-md-4 control-label" for="pwd_input">Senha: </label>
 			  <div class="col-md-4">
-			    <input id="pwd_input" name="pwd_input" type="password" placeholder="placeholder" class="form-control input-md" required="" maxlength="16">			    
+			    <input id="pwd_input" name="pwd_input" type="password" placeholder="Digite a senha" class="form-control input-md" required="" maxlength="16">			    
 			  </div>
 			</div>
 
