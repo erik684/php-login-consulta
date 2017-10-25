@@ -1,5 +1,5 @@
 .jumbotron{
-  background-color: rgb(253, 227, 167, 1);
+  background-color: rgba(253, 227, 167, 1);
 
 }
 
@@ -76,4 +76,8 @@ body {
 
 .alert{
     margin-bottom: 2px;
+}
+
+.thead-custom th{
+    background-color: rgb(65, 131, 215);
 }
