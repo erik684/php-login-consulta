@@ -79,5 +79,6 @@ body {
 }
 
 .thead-custom th{
-    background-color: rgb(65, 131, 215);
+    background-color: rgb(89, 171, 227);
+    font-size: 15px;
 }
