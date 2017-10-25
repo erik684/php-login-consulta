@@ -162,11 +162,11 @@ include_once("includes/filtrar_todosvalores.php");
 
 				<div class="widget-content">
 					<table class="table table-striped table-bordered">
-						<thead>
+						<thead class="thead-custom">
 							<tr>
-								<th id="table_id">Valor total
-								</th><th id="">Mês
-								</th><th id="">Ano
+								<th id="table_id">VALOR TOTAL
+								</th><th id="">MÊS
+								</th><th id="">ANO
 							</tr>
 						</thead>
 
@@ -230,10 +230,10 @@ include_once("includes/filtrar_todosvalores.php");
 						<table class="table table-striped table-bordered">
 							<thead>
 								<tr>
-									<th id="table_id">Valor
-									</th><th id="">Mês
-									</th><th id="">Ano
-									</th><th id="">Idade
+									<th id="table_id">VALOR
+									</th><th id="">MÊS
+									</th><th id="">ANO
+									</th><th id="">IDADE
 								</tr>
 							</thead>
 
